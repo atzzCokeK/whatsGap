@@ -1,0 +1,12 @@
+{
+  "extends": ["eslint:recommended"],
+  "plugins": [],
+  "parserOptions": {},
+  "env": {"es6": true},
+  "globals": {},
+  "rules": {
+    "indent": ["error", 4],
+    "no-undef": "off",
+    "no-unused-vars": "off"
+  }
+}
